@@ -1,0 +1,10 @@
+# SoldierXL
+
+| DATA | SPECIFICATION |
+| :--- | :--- |
+| **Dataset Size** | 542 Images |
+| **Model Base** | RealVisXL V5.0 |
+| **Trigger Word** | rw0soldiers |
+| **Resolution** | 1024 x 1024 |
+| **Training** | 14 Epochs / 3794 Steps |
+| **Parameters** | LR 1e-4 / Dim 64 / Alpha 32 |
