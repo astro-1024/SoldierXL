@@ -67,9 +67,6 @@ First attempt. The model was undertrained (only 66 images). Currently, the weigh
 * **Prohibited:** Using the model to create propaganda, compromising material, inciting hatred, or for any other malicious purposes.
 
 ---
-*Developed with enthusiasm and tea. Update for V1.3 with fixed tagging coming soon!*
-
----
 ---
 
 # SoldierXL (RU)
@@ -139,6 +136,3 @@ First attempt. The model was undertrained (only 66 images). Currently, the weigh
 * **Лицензия:** [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 * **Предостережение:** Данная модель создана исключительно для художественных и образовательных целей. 
 * **Запрещено:** Использовать модель для создания пропаганды, компромата, разжигания ненависти или в любых других противоправных целях.
-
----
-*Разработано с помощью энтузиазма и чая. Скоро будет обновление V1.3 с исправленной разметкой!*
