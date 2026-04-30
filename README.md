@@ -64,7 +64,7 @@ At the moment, this is the most predictable version. It can still produce errors
 *Reason for success: semi-manual dataset tagging.*
 
 | Parameter | Value |
-| :--- | : :--- |
+| :--- | :--- |
 | **Model Base** | RealVisXL V5.0 |
 | **Trigger Word** | `rw1soldiers` |
 | **Dataset Size** | 296 images |
